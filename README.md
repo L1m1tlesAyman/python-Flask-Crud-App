@@ -18,11 +18,6 @@ A lightweight yet powerful **Student Management System** built with Flask, offer
 - [Installation & Setup](#installation--setup)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
