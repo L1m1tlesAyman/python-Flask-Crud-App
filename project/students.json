@@ -1,0 +1,66 @@
+[
+    {
+        "id_student": 3,
+        "firstname": "ahmed",
+        "lastname": "hamza",
+        "email": "ahmed@gmail.com",
+        "gender": "Male",
+        "date_reg": "2026-05-11 14:09:14"
+    },
+    {
+        "id_student": 5,
+        "firstname": "moulod",
+        "lastname": "moulod",
+        "email": "moulod@gmail.com",
+        "gender": "Male",
+        "date_reg": "2026-05-11 08:18:09"
+    },
+    {
+        "id_student": 6,
+        "firstname": "soultana",
+        "lastname": "ikh",
+        "email": "soultana@gmail.co",
+        "gender": "Female",
+        "date_reg": "2026-05-11 07:50:51"
+    },
+    {
+        "id_student": 8,
+        "firstname": "ahmedd",
+        "lastname": "sombol",
+        "email": "ahmed@gmail.com",
+        "gender": "Male",
+        "date_reg": "2026-05-11 08:03:49"
+    },
+    {
+        "id_student": 9,
+        "firstname": "ahme",
+        "lastname": "sombosmk",
+        "email": "ahmed@gmail.com",
+        "gender": "Male",
+        "date_reg": "2026-05-11 08:04:58"
+    },
+    {
+        "id_student": 10,
+        "firstname": "ikhoujjaneaym",
+        "lastname": "ikh",
+        "email": "ikhoujane77@gmail.com",
+        "gender": "Male",
+        "date_reg": "2026-05-11 08:24:53"
+    },
+    {
+        "id_student": 12,
+        "firstname": "leo",
+        "lastname": "messi",
+        "email": "messi@gmail.com",
+        "gender": "Male",
+        "date_reg": "2026-05-11 13:09:18"
+    },
+    {
+        "id_student": 13,
+        "firstname": "ahmed",
+        "lastname": "ahmed",
+        "email": "ahmed@gmail.com",
+        "gender": "Male",
+        "date_reg": "2026-05-11 14:07:35"
+    }
+]
