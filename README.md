@@ -67,7 +67,6 @@ flask_crud_app/
 │   ├── templates/                # HTML templates
 │   │   └── auth/                 # Authentication-related templates
 │   │       └── index.html        # Main dashboard
-│   ├── pycache/              # Python cache (ignored)
 │   ├── app.py                    # Application entry point
 │   ├── config.py                 # Configuration settings
 │   └── students.json             # JSON data store (if using JSON)
